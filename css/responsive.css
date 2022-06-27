@@ -803,7 +803,8 @@
     display: block;
 }
 .navigation-2.navigation .navbar .navbar-brand {
-	width: 145px;
+	width: 200px;
+	margin-right: 0 !important;
 }
 
 .search-box .serach-form input {
